@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../lib/internal/Magento/Framework/ObjectManager/etc/config.xsd">
+
+    <preference for="Vnecoms\VendorsSales\Model\Order\Pdf\Shipment" type="ShopForBuild\CustomVendors\Model\Order\Pdf\Shipment" />
+    <preference for="Magento\Sales\Model\Order\Pdf\Items\Shipment\DefaultShipment" type="ShopForBuild\CustomVendors\Model\Order\Pdf\Items\Shipment\DefaultShipment" />
+
+</config>
