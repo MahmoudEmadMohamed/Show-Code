@@ -3,4 +3,6 @@
 
     <preference for="Vnecoms\VendorsPriceComparison\Block\Vendor" type="ShopForBuild\CustomVendors\Block\Vendor" />
 
+    <preference for="ShopForBuild\CustomVendors\Api\CustomPlaceOrderInterface" type="ShopForBuild\CustomVendors\Model\Api\CustomPlaceOrder"/>
+
 </config>
